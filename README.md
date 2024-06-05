@@ -1,3 +1,3 @@
 
-#Demo
+DEMO
 Hello how are you 
