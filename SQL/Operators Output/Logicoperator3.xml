@@ -1,0 +1,4 @@
+order_id,customer_id,order_amount,order_date,payment_mode,status
+1,1,15000.00,2024-01-20,credit_card,completed
+3,3,5000.00,2024-03-15,net_banking,completed
+4,4,22000.00,2024-04-10,debit_card,completed

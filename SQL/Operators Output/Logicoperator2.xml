@@ -1,0 +1,5 @@
+customer_id,customer_name,age,email,city
+1,Arjun,28,arjun@example.com,Mumbai
+3,Adithya,35,adithya@example.com,Mumbai
+4,Shravanth,40,cv@example.com,Bangalore
+5,Rocky,30,rocky@example.com,Mumbai

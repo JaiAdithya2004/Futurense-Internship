@@ -1,0 +1,6 @@
+product_id,product_name,price,price_difference
+1,Pencil,150.00,28.000000
+2,Pen,90.00,-32.000000
+3,chair,200.00,78.000000
+4,Table,120.00,-2.000000
+5,Laptop,50.00,-72.000000

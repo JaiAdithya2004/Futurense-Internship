@@ -1,0 +1,4 @@
+product_id,product_name,price,created_at,last_updated,stock,location
+1,KTM,150000.00,2024-01-15,"2024-06-17 13:25:36",50,Mumbai
+3,TRIUMPH,20000.00,2024-03-10,"2024-06-17 13:25:36",20,Mumbai
+4,BMW,12000.00,2024-04-05,"2024-06-17 13:25:36",15,Mumbai
