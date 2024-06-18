@@ -1,0 +1,7 @@
+order_id,customer_id,order_amount,customer_name
+3,3,30000.00,Shivangi
+5,5,25000.00,Ashwin
+2,2,20000.00,Bala
+4,4,15000.00,Bhaskar
+1,1,10000.00,Pugazh
+6,6,5000.00,Karthick
