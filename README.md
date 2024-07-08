@@ -8,5 +8,4 @@ Weather Dataset:
 [WeatherDataset.csv](https://github.com/user-attachments/files/16101077/WeatherDataset.csv)
 
 Handling and Removal of outliers:
-[winequality.csv…]()
-
+[winequality.csv](https://github.com/user-attachments/files/16128455/winequality.csv)
